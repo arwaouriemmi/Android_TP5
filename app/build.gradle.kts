@@ -4,6 +4,10 @@ plugins {
 }
 
 android {
+    buildFeatures {
+        viewBinding = true
+    }
+
     namespace = "com.gl4.tp5"
     compileSdk = 34
     defaultConfig {

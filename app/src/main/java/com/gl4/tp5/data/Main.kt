@@ -1,4 +1,4 @@
-package com.gl4.tp5
+package com.gl4.tp5.data
 
 data class Main(
     val feels_like: Double,

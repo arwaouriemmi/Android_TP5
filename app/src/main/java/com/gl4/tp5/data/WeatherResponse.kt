@@ -1,4 +1,6 @@
-package com.gl4.tp5
+package com.gl4.tp5.data
+
+import com.gl4.tp5.Sys
 
 data class WeatherResponse(
     val base: String,
